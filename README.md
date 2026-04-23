@@ -4,7 +4,7 @@ This repository contains projects completed as part of the CodeAlpha Internship,
 
 ---
 
-## 🌸 📌 Project 1: Iris Classification
+## 📌 Project 1: Iris Classification 🌸
 A machine learning model that classifies iris flowers into different species based on their features.
 
 - Built a machine learning model to classify iris flowers  
@@ -14,7 +14,7 @@ A machine learning model that classifies iris flowers into different species bas
 
 ---
 
-## 📊 Unemployment Analysis
+## 📌 Project 2: Unemployment Analysis 📊
 Data analysis project that studies unemployment trends and the impact of Covid-19 using visualization techniques.
 
 - Analyzed unemployment trends using real dataset  
@@ -24,7 +24,7 @@ Data analysis project that studies unemployment trends and the impact of Covid-1
 
 ---
 
-## 🚗 Car Price Prediction
+## 📌 Project 3: Car Price Prediction 🚗
 A machine learning regression model to predict car prices based on features like mileage, fuel type, and year.
 
 - Algorithm: Linear Regression  
